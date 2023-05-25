@@ -1,0 +1,514 @@
+/* 1 Retangulo */
+.retangulo{
+position: absolute;
+width: 1525px;
+height: 70px;
+left: 0px;
+top: 0px;
+background: #FAC61F;}
+
+/* logo hot dog */
+.logohotdog{
+position: absolute;
+width: 70px;
+height: 70px;
+left: 70px;
+top: 0px;}
+
+
+/* Hot Dog */
+.textohotdog{
+position: absolute;
+width: 200px;
+height: 20px;
+left: 200px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 1000;
+font-size: 40px;
+line-height: 48px;
+color: #EF1C26;
+-webkit-text-stroke: 1px rgb(255, 229, 229);
+top: -20px;}
+
+.promocao{
+    position: absolute;
+    width: 300px;
+    height: 27px;
+    left: 750px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 62px;
+    color: #EF1C26;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+.cardapio{
+    position: absolute;
+    width: 300px;
+    height: 27;
+    left: 875px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 62px;
+    color: #EF1C26;
+    -webkit-text-stroke: 1px rgb(0, 0, 0)
+}
+
+.contato{
+    position: absolute;
+    width: 300px;
+    height: 27;
+    left: 987px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 62px;
+    color: #EF1C26;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+/* ifood-43 1 */
+.ifood{
+    position: absolute;
+    width: 48px;
+    height: 25px;
+    left: 1080px;
+    top: 40px;
+}
+/*retangulo whatsapp
+.retangulowhats{
+    position: absolute;
+    width: 163px;
+    height: 38.47px;
+    left: calc(50% - 163px/2 + 520.5px);
+    top: calc(50% - 38.47px/2 - 845.76px);
+    background: #EF1C26;
+    border-radius: 10px;
+}*/
+
+/*retangulo whatsapp*/
+.retangulozap{
+    position: absolute;
+    width: 163px;
+    height: 38.47px;
+    left: calc(50% - 100px/2 + 1190.5px);
+    top: calc(50% - 30.47px/2);
+    background: #EF1C26;
+    border-radius: 10px;
+}
+
+/* icone do WhatsApp */
+.iconewhats{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 5px;
+    top: 2px;
+}
+
+/* WhatsApp */
+.whatsapp{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 56px;
+    top: -10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* Banner Principal*/
+.banner{
+    position: absolute;
+    width: 1525px; /*1441px a 433px*/
+    height: 500px;
+    left: 0px;
+    top: 35px;
+}
+
+/* Retangulo meio redondado do WhatsApp*/
+.retangulozapdois{
+    position: absolute;
+    width: 668px;
+    height: 142px;
+    left: -49px;
+    top: 633px;
+    background: #FAC61F;
+    border-radius: 71px;
+}
+
+/* Retangulo meio redondado do Ifood*/
+.retanguloifood{
+    position: absolute;
+    width: 668px;
+    height: 142px;
+    left: -49px;
+    top: 889px;
+    background: #FAC61F;
+    border-radius: 71px;
+}
+
+/* Quadrado de promoções*/
+.quadrado{
+    position: absolute;
+    width: 602px;
+    height: 546px;
+    left: 720px;
+    top: 582px;
+    background: #94131C;
+
+}
+
+/* Imagem de promoção 1 */
+.imagempromocao{
+    position: absolute;
+    width: 579px;
+    height: 226px;
+    left: 731px;
+    top: 600px;
+}
+
+/* Imagem de promoção 2 */
+.semcrise{
+    position: absolute;
+    width: 300px;
+    height: 240px;
+    left: 731px;
+    top: 844px;
+}
+
+/* Imagem de promoção 3 */
+.tododiadog{
+    position: absolute;
+    width: 244px;
+    height: 240px;
+    left: 1066px;
+    top: 844px;
+}
+
+/* 2 logo do whatsapp */
+.iconwhats{
+    position: absolute;
+    width: 117px;
+    height: 117px;
+    left: 475px;
+    top: 646px;
+}
+
+/* 2 logo do ifood */
+.iconifood{
+    position: absolute;
+    width: 144px;
+    height: 75px;
+    left: 449px;
+    top: 934px;
+}
+
+/* Texto do WhatsApp */
+.textowhatsapp{
+    position: absolute;
+    width: 355px;
+    height: 72px;
+    left: 113px;
+    top: 646px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+/* Numero do WhatsApp */
+.numerowhatsapp{
+    position: absolute;
+    width: 204px;
+    height: 24px;
+    left: 183px;
+    top: 710px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #1BD233;
+}
+
+/* texto ifood */
+.textoifood{
+    position: absolute;
+    width: 210px;
+    height: 72px;
+    left: 164px;
+    top: 905px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+/* Texto do mapa */
+.textodomapa{
+    position: absolute;
+    width: 514px;
+    height: 30px;
+    left: 449px;
+    top: 1120px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #000000;
+}
+
+/* Mapa do google maps */
+.mapa{
+    position: absolute;
+    width: 1525px;
+    height: 253px;
+    left: 0px;
+    top: 1229px;
+}
+
+/* Penultimo retangulo */
+.retangulop{
+    position: absolute;
+    width: 1525px;
+    height: 304px;
+    left: 0px;
+    top: 1482px;
+    background: #FAC61F;
+}
+
+/* Retangulo do horario */
+.retangulohorario{
+    position: absolute;
+    width: 399px;
+    height: 87px;
+    left: calc(50% - 399px/2 - 400.5px);
+    top: calc(50% - 87px/2 + 1190.5px);
+    background: #EF1C26;
+    border-radius: 10px;
+}
+
+/* Relogio */
+.relogio{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 180px;
+    top: 1525px;
+}
+
+/* Horario de Funcionamento */
+.horario{
+    position: absolute;
+    width: 259px;
+    height: 24px;
+    left: 280px;
+    top: 1500px;    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* Horario de funcionamento Texto */
+.textohorario1{
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    left: 280px;
+    top: 1535px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+/* Retangulo da entrega */
+.retanguloentrega{
+    position: absolute;
+    width: 399px;
+    height: 87px;
+    left: calc(50% - 399px/2 - 400.5px);
+    top: calc(50% - 87px/2 + 1300.5px);
+    background: #EF1C26;
+    border-radius: 10px;
+}
+
+/* icon-moto-150 1 */
+.iconmoto{
+    position: absolute;
+    width: 73px;
+    height: 73px;
+    left: 170px;
+    top: 1630px;
+}
+
+/* Horario de Entrega */
+.horarioentrega{
+    position: absolute;
+    width: 183px;
+    height: 24px;
+    left: 278px;
+    top: 1610px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* Horarios de entrega */
+.horariosentrega{
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    left: 280px;
+    top: 1650px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+/* Retangulo cartoes */
+.retangulocartoes{
+    position: absolute;
+    width: 399px;
+    height: 200px;
+    left: calc(50% - 399px/2 + 130.5px);
+    top: calc(50% - 232px/2 + 1260px);
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+/* Pagamentos */
+.pagamento{
+    position: absolute;
+    width: 366px;
+    height: 48px;
+    left: 710px;
+    top: 1500px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+/* imagem dos cartoes */
+.cartoes{
+    position: absolute;
+    width: 350px;
+    height: 172px;
+    left: 720px;
+    top: 1540px;
+}
+
+/* Retangulo redes sociais */
+.retangulors{
+    position: absolute;
+    width: 215px;
+    height: 199px;
+    left: calc(50% - 215px/2 + 494.5px);
+    top: calc(50% - 232px/2 + 1260px);
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+/* Siga-nos nas Redes Sociais */
+.textors{
+    position: absolute;
+    width: 215px;
+    height: 48px;
+    left: 1145px;
+    top: 1500px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+/* icone facebook */
+.facebook{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1160px;
+    top: 1580px;
+}
+
+/* icone instagram */
+.instagram{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1285px;
+    top: 1575px;
+}
+
+/* tiktok-app-icon-logo-0F5AD7AE01-seeklogo 1 */
+.tiktok{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1225px;
+    top: 1580px;
+}
+
+/* texto final */
+.textofinal{
+    position: absolute;
+    width: 471px;
+    height: 24px;
+    left: 485px;
+    top: 1770px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+/* ultimo retangulo */
+.retangulofinal{
+    position: absolute;
+    width: 1525px;
+    height: 31px;
+    left: 0px;
+    top: 1786px;
+    background: #EF1C26;
+}
